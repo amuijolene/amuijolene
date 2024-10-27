@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jolene Amui
-- 👀 I’m interested in utilizing data analysis and AI to tackle sustainable urban development 
+- 👀 I’m interested in utilizing data analysis and AI to tackle real-world problems 
 - 🌱 I’m currently learning data analytics and artificial intelligence
 - 💞️ I’m looking to collaborate on innovative construction and research projects
 - 📫 How to reach me amuijolene@gmail.com
